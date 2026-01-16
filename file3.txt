@@ -1,4 +1,5 @@
 A new file
+common line 
 new file
 Q11 change line
 Change from feature1 branch
