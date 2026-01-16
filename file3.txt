@@ -1,5 +1,3 @@
 A new file
-this will generate conflict
+COMMON LINE
 new file
-Q11 change line
-Change from main branch
